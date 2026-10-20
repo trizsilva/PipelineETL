@@ -1,4 +1,4 @@
-# Projeto Final — Pipeline de Extração de Dados (ETL)
+# Projeto — Pipeline de Extração de Dados (ETL)
 
 Pipeline automatizado em Bash que recolhe diariamente:
 - O câmbio EUR/USD atual, via API da Frankfurter
