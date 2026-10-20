@@ -1,5 +1,4 @@
 # Projeto Final — Pipeline de Extração de Dados (ETL)
-## UFCD 10806
 
 Pipeline automatizado em Bash que recolhe diariamente:
 - O câmbio EUR/USD atual, via API da Frankfurter
